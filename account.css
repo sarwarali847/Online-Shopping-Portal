@@ -117,6 +117,14 @@ label{
     padding-left: 8px;  
 
 }  
+#Uname:hover{
+    border: 5px solid rgb(152, 152, 161);
+    background-color: khaki;
+}
+#Pass:hover{
+    border: 5px solid rgb(152, 152, 161);
+    background-color: khaki;
+}
 #Pass{  
     width: 300px;  
     height: 30px;  

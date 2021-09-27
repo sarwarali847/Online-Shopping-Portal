@@ -79,3 +79,8 @@ a:hover{
 	margin: 0px auto;
 }
 
+.m1:hover{
+	border: 5px solid rgb(152, 152, 161);
+	background-color: khaki;
+}
+
